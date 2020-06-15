@@ -1,0 +1,8 @@
+.navbarContainer {
+	border-radius: 0 !important;
+	box-shadow: rgba(0, 0, 0, 0.176) 0px 16px 48px 0px !important;
+}
+
+.navbarContainer h2.header {
+	color: white;
+}
